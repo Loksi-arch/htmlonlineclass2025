@@ -1,0 +1,22 @@
+h2{
+    color: orange;
+    text-align:center ;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid #d608ed;
+    padding: 15px;
+
+}
+p{
+    color: #081bea;
+    font-family: Arial, serif;
+    font-size: 15px;
+}
